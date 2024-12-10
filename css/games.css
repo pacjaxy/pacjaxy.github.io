@@ -10,3 +10,8 @@
     margin: 4px 2px;
     cursor: pointer;
   }
+
+  img {
+    width: 0.2px; /* Make the image very small */
+    height: 0.2px; /* Ensure the height is the same as the width */
+}

@@ -4,6 +4,25 @@ h1{
     font-family: 'Gill Sans';
     text-shadow: 2px 2px 5px gray;
 }
+h2{
+    text-align: center;
+    margin: 15px;
+    font-family: 'Gill Sans';
+    text-shadow: 2px 2px 5px gray;
+}
+h3{
+    text-align: center;
+    margin: 15px;
+    font-family: 'Gill Sans';
+    text-shadow: 2px 2px 5px gray;
+}
+h4{
+    text-align: center;
+    margin: 15px;
+    font-family: 'Gill Sans';
+    text-shadow: 2px 2px 5px gray;
+}
+
 .button {
     background-color: #04AA6D;
     border: none;
