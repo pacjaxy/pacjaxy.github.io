@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>PacJaxy's Epic Website</title>
+  <title>PacJaxy's Epic Software</title>
   <style>
     body {
       background-color: #121212;
@@ -12,23 +12,24 @@
     }
     header {
       display: flex;
-      justify-content: flex-end; /* push button to top right */
+      justify-content: flex-end; /* push buttons to top right */
+      gap: 0.5rem;               /* space between buttons */
       padding: 1rem;
       background: #1a1a1a;
     }
-    .software-btn {
+    .nav-btn {
       background-color: grey;
       border: 2px solid darkgrey;
       padding: 0.25rem;
       border-radius: 0; /* no rounds */
       display: inline-block;
     }
-    .software-btn img {
+    .nav-btn img {
       display: block;
       height: 32px; /* adjust size */
       width: auto;
     }
-    .software-btn:hover {
+    .nav-btn:hover {
       background-color: #666;
       border-color: #444;
     }
@@ -40,11 +41,17 @@
 </head>
 <body>
   <header>
-    <a href="software.html" class="software-btn">
-      <img src="assets/icons/software.png" alt="">
+    <!-- Home button -->
+    <a href="index.html" class="nav-btn">
+      <img src="assets/icons/home.png" alt="Home">
+    </a>
+    <!-- Software button -->
+    <a href="software.html" class="nav-btn">
+      <img src="assets/icons/software.png" alt="Software">
     </a>
   </header>
-    <main>
+
+  <main>
     <h1>pacjaxy's epic software</h1>
     <h2>there aint no software here so check again</h2>
   </main>
