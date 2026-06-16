@@ -1,3 +1,3 @@
-pacjaxy's and msmmstg's MOST EPIC WEBSITE
+pacjaxy's, msmmstg's, and codemastr67's MOST EPIC WEBSITE
 
 we do games, software, and other stuff on here
