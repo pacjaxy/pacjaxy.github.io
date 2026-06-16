@@ -1,6 +1,6 @@
 pacjaxy's, msmmstg's, and codemastr67's MOST EPIC WEBSITE
 
-we do games, software, and other stuff on here
+we do games, software(Nothing yet), and other stuff on here
 
 
 
